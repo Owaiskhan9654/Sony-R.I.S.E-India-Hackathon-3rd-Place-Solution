@@ -1,6 +1,6 @@
 # Sony-R.I.S.E-India-Hackathon-3rd-Place-Solution
 
-[Dataset Link](Please Refer to this for Complete Dataset - https://www.kaggle.com/datasets/owaiskhan9654/rise-research-innovate-solve-excel) 
+Please Refer to this for Complete Dataset - [Dataset Link] (https://www.kaggle.com/datasets/owaiskhan9654/rise-research-innovate-solve-excel) 
 
 ![image.png](https://raw.githubusercontent.com/Owaiskhan9654/Sony-R.I.S.E-India-Hackathon-3rd-Place-Solution/main/17412c407a-Cover2x%20-%20Copy.png)
 
